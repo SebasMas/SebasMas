@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! I'm an experienced professional in the Ecommerce and Marketing industries, with a focus on utilizing Social Media to drive business growth. I'm always looking to expand my skill set and collaborate with like-minded individuals to achieve great results. Currently, I'm also dedicated to advancing my programming skills by learning Java and advanced Java through certified courses and online resources and I'm always creating new projects using different languages like Python, Java and Web development tools like HTML, CSS, JS and React. Check my repositories to get a few examples!<br>
+<br>Hi there! I'm an experienced professional in the Ecommerce and Marketing industries, with a focus on utilizing Social Media to drive business growth. I'm always looking to expand my skill set and collaborate with like-minded individuals to achieve great results. Currently, I'm also dedicated to advancing my programming skills by learning Java and advanced Java through certified courses and online resources and I'm always creating new projects using different languages like Python (which is the language I use most of the time), Java and Web development tools like HTML, CSS, JS and React. Check my repositories to get a few examples!<br>
 
 
 ## 🌐 Socials:
